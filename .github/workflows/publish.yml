@@ -36,7 +36,7 @@ jobs:
           regions: us-west-1,us-east-1,us-east-2
           bucketPrefix: 'static-files-'
           commit: true
-          description: >+
+          description: |+
             Lambda layers automatically deployed from [chrome-aws-lambda](https://github.com/alixaxel/chrome-aws-lambda) builds.
 
             This repo checks for changes weekly so if you need a release sooner, open an issue and I'll trigger a workflow run.
