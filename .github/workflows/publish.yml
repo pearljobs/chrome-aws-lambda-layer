@@ -36,10 +36,10 @@ jobs:
           regions: us-west-1,us-east-1,us-east-2
           bucketPrefix: 'static-files-'
           commit: true
-          description: >
-            Lambda layers automatically deployed from [chrome-aws-lambda](https://github.com/alixaxel/chrome-aws-lambda) builds.\n\n
+          description: >+
+            Lambda layers automatically deployed from [chrome-aws-lambda](https://github.com/alixaxel/chrome-aws-lambda) builds.
 
-            This repo checks for changes weekly so if you need a release sooner, open an issue and I'll trigger a workflow run.\n\n
+            This repo checks for changes weekly so if you need a release sooner, open an issue and I'll trigger a workflow run.
 
             Similarly if this doesn't currently deploy to a region you need, open an issue and I'll add it
       - uses: EndBug/add-and-commit@v7.2.0
