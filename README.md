@@ -7,13 +7,13 @@ Similarly if this doesn't currently deploy to a region you need, open an issue a
 # Getting Started 
 Click on Layers and choose "Add a layer", and "Provide a layer version ARN" and enter the ARN from below for your region
 # Latest Layers
-Last updated: Mon May 10 2021 13:25:34 GMT+0000 (Coordinated Universal Time)
+Last updated: Mon Jun 07 2021 14:24:02 GMT+0000 (Coordinated Universal Time)
 
-Release/build: `v9.1.0`
+Release/build: `v10.0.0`
     
 | Region | ARN |
 | --- | --- |
-| us-west-1 | `arn:aws:lambda:us-west-1:292907668672:layer:chrome-aws-lambda:11` |
-| us-west-2 | `arn:aws:lambda:us-west-2:292907668672:layer:chrome-aws-lambda:3` |
-| us-east-1 | `arn:aws:lambda:us-east-1:292907668672:layer:chrome-aws-lambda:12` |
-| us-east-2 | `arn:aws:lambda:us-east-2:292907668672:layer:chrome-aws-lambda:9` |
+| us-west-1 | `arn:aws:lambda:us-west-1:292907668672:layer:chrome-aws-lambda:12` |
+| us-west-2 | `arn:aws:lambda:us-west-2:292907668672:layer:chrome-aws-lambda:4` |
+| us-east-1 | `arn:aws:lambda:us-east-1:292907668672:layer:chrome-aws-lambda:13` |
+| us-east-2 | `arn:aws:lambda:us-east-2:292907668672:layer:chrome-aws-lambda:10` |
