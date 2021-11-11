@@ -36,7 +36,7 @@ jobs:
         with:
           repoOwner: alixaxel
           repo: chrome-aws-lambda
-          regions: us-west-1,us-west-2,us-east-1,us-east-2
+          regions: us-west-1,us-west-2,us-east-1,us-east-2,eu-south-1
           bucketPrefix: 'static-files-'
           commit: true
           description: |+
