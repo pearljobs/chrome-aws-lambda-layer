@@ -45,7 +45,7 @@ jobs:
             This repo checks for changes weekly so if you need a release sooner, open an issue and I'll trigger a workflow run.
 
             Similarly if this doesn't currently deploy to a region you need, open an issue and I'll add it
-      - uses: EndBug/add-and-commit@v7.4.0
+      - uses: EndBug/add-and-commit@v7.5.0
         with:
           # Arguments for the git add command
           add: README.md
